@@ -78,11 +78,6 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymous2000hero-alt&theme=react-dark&hide_border=true"/>
 </p>
-## ✨ Philosophy
-
-> Build. Learn. Scale. Repeat.
-
----
 
 ### 🤝 Connect
 
@@ -97,7 +92,6 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=100&section=footer"/>
