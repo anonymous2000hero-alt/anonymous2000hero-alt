@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/anonymoushero2000hero-alt/anonymoushero2000-alt/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/anonymoushero2000hero-alt/anonymous2000hero-alt/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 💫 About Me
