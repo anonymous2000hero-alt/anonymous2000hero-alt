@@ -12,7 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=anonymous2000hero-alt&color=00C9FF&style=for-the-badge" />
 </p>
 
+
 ---
+
+<p align="center">
+  <img src="https://github.com/anonymoushero2000hero-alt/anonymoushero2000-alt/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 💫 About Me
 
