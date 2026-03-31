@@ -1,21 +1,123 @@
-# 💫 About Me:
-Hi there, I'm Satyam Chaudhary 👋<br>I am an entrepreneur and business student based in Ghaziabad, India, passionate about the tech startup ecosystem, artificial intelligence, and building scalable solutions. Currently pursuing my BA.Honors in Business Economics at Dr. Bhimrao Ambedkar College (Delhi University), I combine analytical economics with a hands-on approach to business development.<br><br>🚀 What I'm Building<br>GradHive : I am actively building and scaling GradHive, a hiring infrastructure platform.<br><br>E-Commerce Venture: Alongside my tech pursuits, I am co-founding a retail clothing brand to systematically manage, market, and scale a large inventory of inherited stock.<br><br>📈 Interests & Ambitions<br>Tech & AI: Deeply interested in the intersection of artificial intelligence and business, as well as emerging markets like the semiconductor industry.<br><br>Continuous Learning: I am also expanding my analytical toolkit by clearing the Actuarial Common Entrance Test (ACET).<br><br>⚡ Outside of Work<br>When I'm not working on pitch decks, strategizing for GradHive, or exploring new startup ideas, I'm highly focused on personal development, maintaining a disciplined fitness routine, and continuously exploring the evolving tech landscape.<br><br>Always open to connecting with fellow founders, developers, and anyone passionate about startups!
+# 🚀 Satyam Chaudhary
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=200&section=header&text=Satyam%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# 💻 Tech Stack:
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivyangJuyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DivyangJuyal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyangJuyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Entrepreneur+%7C+Builder+%7C+Business+Economics+Student;Building+GradHive;Scaling+Ideas+Into+Real+Businesses;AI+%2B+Startups+%2B+Execution" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyangJuyal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anonymous2000hero-alt&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DivyangJuyal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🚀 Business Economics Student | Startup Builder  
+
+I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passionate about building scalable startups at the intersection of **technology, AI, and business**.
+
+- 🎓 Pursuing **BA (Hons) Business Economics** at Delhi University  
+- 🧠 Strong focus on **analytical thinking + execution**
+- ⚡ Combining **economics + startup building**
+
+💡 **Mission:** Build scalable, high-impact businesses in India’s tech ecosystem  
+
+---
+
+## 🚀 What I'm Building
+
+### 🔥 GradHive
+> Hiring infrastructure platform for the modern workforce
+
+- 📊 Building scalable hiring systems  
+- 🧠 Focus on efficiency + automation  
+- 🎯 Vision: Redefine hiring workflows  
+
+---
+
+### 🛍️ E-Commerce Venture
+> Retail clothing brand built on inherited inventory
+
+- 📦 Structured inventory management  
+- 📈 Scaling through digital channels  
+- 🎯 Turning legacy assets into a modern business  
+
+---
+
+## 📈 Interests & Ambitions
+
+- 🤖 AI + Business Integration  
+- 🧩 Startup Ecosystem & Emerging Markets  
+- 🏭 Semiconductor Industry Curiosity  
+- 📚 Preparing for Actuarial Common Entrance Test (ACET)  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,sql,figma,git,github&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Currently Focused On
+
+- 🚀 Scaling GradHive  
+- 📊 Business strategy & systems thinking  
+- 💪 Personal discipline & fitness  
+- 🌍 Understanding evolving tech trends  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymous2000hero-alt&theme=dark&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anonymous2000hero-alt&theme=dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous2000hero-alt&theme=dark&hide_border=true&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anonymous2000hero-alt&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## ✨ Philosophy
+
+> “Build. Learn. Scale. Repeat.”  
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=100&section=footer"/>
+</p>
