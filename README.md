@@ -71,8 +71,8 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anonymous 2000hero-alt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-
+  <img src="https://streak-stats.demolab.com?user=anonymous2000hero-alt&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📈 Contribution Graph
 <p align="center">
