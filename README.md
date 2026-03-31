@@ -79,6 +79,10 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anonymous2000hero-alt&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymous2000hero-alt&theme=react-dark&hide_border=true"/>
+</p>
 ## ✨ Philosophy
 
 > Build. Learn. Scale. Repeat.
