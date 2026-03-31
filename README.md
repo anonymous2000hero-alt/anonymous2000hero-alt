@@ -94,6 +94,9 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+<a href="https://instagram.com/1717satyam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
 ---
 
