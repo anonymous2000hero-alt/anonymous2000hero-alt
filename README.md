@@ -93,11 +93,10 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
   <a href="mailto:satyam.2006hero@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-</p>
 <a href="https://instagram.com/1717satyam">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
+</p>
 ---
 
 <p align="center">
