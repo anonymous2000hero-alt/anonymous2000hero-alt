@@ -49,6 +49,22 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
 
 ---
 
+
+### 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/satyam-chaudhary-ba4949382">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:satyam.2006hero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+<a href="https://instagram.com/1717satyam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -77,20 +93,6 @@ I’m **Satyam Chaudhary**, an entrepreneur based in **Ghaziabad, India**, passi
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymous2000hero-alt&theme=react-dark&hide_border=true"/>
-</p>
-
-### 🤝 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/satyam-chaudhary-ba4949382">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:satyam.2006hero@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-<a href="https://instagram.com/1717satyam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
